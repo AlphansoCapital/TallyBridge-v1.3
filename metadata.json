@@ -1,0 +1,5 @@
+{
+  "name": "TallyBridge: eCommerce Report Converter",
+  "description": "Transform Amazon, Flipkart, and other marketplace MTR/Tax reports into Tally-compliant XML vouchers for seamless accounting integration.",
+  "requestFramePermissions": []
+}
